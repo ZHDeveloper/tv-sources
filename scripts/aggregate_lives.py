@@ -31,7 +31,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger("live_aggregator")
 
-ROOT_DIR = Path(__file__).resolve().parent
+ROOT_DIR = Path(__file__).resolve().parents[1]
 LIVE_DIR = ROOT_DIR / "live"
 UPSTREAM_CONFIG = LIVE_DIR / "upstream.json"
 SOURCES_CONFIG = ROOT_DIR / "tv" / "ok-sources.json"

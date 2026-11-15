@@ -26,7 +26,7 @@ jobs:
         run: pip install cryptography
 
       - name: Refresh mirrors from upstream
-        run: python mirror_spiders.py
+        run: python scripts/mirror_spiders.py
 
       - name: Check for changes
         id: diff

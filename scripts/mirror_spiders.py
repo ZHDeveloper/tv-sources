@@ -26,9 +26,10 @@ import zipfile
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
-SPIDERS = Path("spiders")
+ROOT_DIR = Path(__file__).resolve().parents[1]
+SPIDERS = ROOT_DIR / "spiders"
 MANIFEST = SPIDERS / "upstream.json"
-CONFIG = Path("tv/ok-sources.json")
+CONFIG = ROOT_DIR / "tv" / "ok-sources.json"
 INDEX_URL = "https://12586.kstore.space/123.txt"
 MD5_SUFFIX = re.compile(r"(?:;md5;|#\.\w+;)")
 SOURCE_MAP = {
