@@ -1,4 +1,4 @@
-"""Aggregate, validate, and group IPTV channels from ok-sources.json lives list.
+"""Aggregate, validate, and group IPTV channels from tv/ok-sources.json lives list.
 
 Fetches upstream live sources (M3U & TXT), normalizes channel names and
 categories, prioritizes television channels, validates stream availability with
@@ -34,7 +34,7 @@ logger = logging.getLogger("live_aggregator")
 ROOT_DIR = Path(__file__).resolve().parent
 LIVE_DIR = ROOT_DIR / "live"
 UPSTREAM_CONFIG = LIVE_DIR / "upstream.json"
-SOURCES_CONFIG = ROOT_DIR / "ok-sources.json"
+SOURCES_CONFIG = ROOT_DIR / "tv" / "ok-sources.json"
 
 DEFAULT_EPG = "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
 DEFAULT_LOGO_BASE = "https://live.zbds.top/logo"

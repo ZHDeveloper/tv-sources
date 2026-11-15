@@ -28,7 +28,7 @@ from pathlib import Path
 
 SPIDERS = Path("spiders")
 MANIFEST = SPIDERS / "upstream.json"
-CONFIG = Path("ok-sources.json")
+CONFIG = Path("tv/ok-sources.json")
 INDEX_URL = "https://12586.kstore.space/123.txt"
 MD5_SUFFIX = re.compile(r"(?:;md5;|#\.\w+;)")
 SOURCE_MAP = {
