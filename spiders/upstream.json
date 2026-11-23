@@ -1,23 +1,23 @@
 {
   "fantaiying": {
-    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/58e1fe36b5683e725729d0addfb5a9e3.jpg",
-    "file": "fantaiying-0ce2eae7.bin",
-    "md5": "0ce2eae734b7eff47763f3f9e1d8525b"
+    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/b22fd2d677a89337d8733fc1d3f2a581.jpg",
+    "file": "fantaiying-59a6b4af.bin",
+    "md5": "59a6b4afe46139a3a50d4f19b6137091"
   },
   "xiaomi": {
-    "upstream": "https://nim-nosdn.netease.im/NTE4NDEwOA%3D%3D/bmltYV8yMDg2MzU4NTY2MDJfMTc5NTI2NTA3NDEyNV83ZDVkNWQyMC04Y2I3LTQ5NzgtYTAzNS1kOTk4NDYzYWJmYjA%3D",
-    "file": "xiaomi-ebe3af9c.bin",
-    "md5": "ebe3af9c9f2cdcd4756cbb9036a57823"
+    "upstream": "https://zl.wpscdn.cn/2026/11/23/space_img/261cf87c-0a0d-481c-8cc0-fbd8f86f1fd7.png",
+    "file": "xiaomi-58403902.bin",
+    "md5": "584039025e27d1aadc8eef925bc8e863"
   },
   "feimao": {
-    "upstream": "https://img2.gelonghui.com/library/73c42-e8ed973d-4e97-42d9-b486-1a55057741ed.png",
-    "file": "feimao-73c42d5c.bin",
-    "md5": "73c42d5c2f86efd6ddc6c85fd286069c"
+    "upstream": "https://img2.gelonghui.com/library/252d4-9c2ceac7-d615-4058-98ab-fe13818b0ce4.png",
+    "file": "feimao-252d4d89.bin",
+    "md5": "252d4d890b6e61a4cd29c3b67f4b8a30"
   },
   "wangerxiao": {
-    "upstream": "http://oss4liview.moji.com/thd_file/2026/11/21/2eca9460132ba7940a5098877c187e1a.jpg",
-    "file": "wangerxiao-b7e2f9d1.bin",
-    "md5": "b7e2f9d16ff81dfe13853c6fff2e2b22"
+    "upstream": "http://oss4liview.moji.com/thd_file/2026/11/23/98f6124357b913bcb47d81339ca7725a.jpg",
+    "file": "wangerxiao-924547ec.bin",
+    "md5": "924547ec8b148216d7636beb3213b60e"
   },
   "moyuer": {
     "upstream": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
@@ -30,9 +30,9 @@
     "md5": "13a3d15bdc38794e575853c4c9b9e24e"
   },
   "aowu": {
-    "upstream": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
-    "file": "aowu-e76d6f01.bin",
-    "md5": "e76d6f0107817970b9f57d7d29129efe"
+    "upstream": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png",
+    "file": "aowu-b67c6648.bin",
+    "md5": "b67c6648a07391b7bee0fc0848ada8eb"
   },
   "aowu-alt": {
     "upstream": "https://nos.netease.com/vcloud-statistic/nrtc/35012678-318a-469d-866b-00e9d74468df.png",
@@ -60,9 +60,9 @@
     "md5": "29a9f36b2e4d386a5849aaf80d56662d"
   },
   "eryuehong-tan": {
-    "upstream": "http://118.89.172.248:8025/jar/tan2.php",
-    "file": "eryuehong-tan-0e7980b6.bin",
-    "md5": "0e7980b6f08232f857d3fe6cb475763d"
+    "upstream": "http://118.89.172.248:8025/jar/tan.php",
+    "file": "eryuehong-tan-08785f12.bin",
+    "md5": "08785f127789f7edd56d6678b45de8fb"
   },
   "nanfeng": {
     "upstream": "https://jihulab.com/yoursmile77/TVBox/-/raw/master/Yoursmile.jar",
