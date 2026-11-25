@@ -1,48 +1,48 @@
 {
-  "updated_at": "2026-11-24 12:06:09 UTC",
-  "total_channels": 350,
-  "total_streams": 546,
+  "updated_at": "2026-11-25 02:55:17 UTC",
+  "total_channels": 419,
+  "total_streams": 608,
   "categories": {
     "央视频道": {
       "channels": 46,
-      "streams": 99
+      "streams": 96
     },
     "卫视频道": {
       "channels": 36,
-      "streams": 103
+      "streams": 104
     },
     "超清4K": {
       "channels": 5,
       "streams": 6
     },
     "港澳台": {
-      "channels": 29,
-      "streams": 46
+      "channels": 28,
+      "streams": 43
     },
     "数字影视": {
-      "channels": 17,
-      "streams": 22
+      "channels": 56,
+      "streams": 61
     },
     "体育游戏": {
-      "channels": 15,
-      "streams": 20
+      "channels": 22,
+      "streams": 25
     },
     "少儿动漫": {
-      "channels": 13,
-      "streams": 14
+      "channels": 30,
+      "streams": 31
     },
     "地方综合": {
-      "channels": 112,
-      "streams": 143
+      "channels": 117,
+      "streams": 145
     },
     "网络轮播": {
-      "channels": 37,
-      "streams": 37
+      "channels": 38,
+      "streams": 38
     },
     "综合频道": {
-      "channels": 40,
-      "streams": 56
+      "channels": 41,
+      "streams": 59
     }
   },
-  "elapsed_seconds": 34.14
+  "elapsed_seconds": 32.64
 }
