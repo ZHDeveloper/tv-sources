@@ -1,13 +1,13 @@
 {
   "fantaiying": {
-    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/554e1b7b2e64ade4ffab3d1c9881890f.jpg",
-    "file": "fantaiying-9966f0c4.bin",
-    "md5": "9966f0c40f3a7f2cd351ecedf642e067"
+    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/8ad28c3ad40145e2f9331fe3f8abddb2.jpg",
+    "file": "fantaiying-5302302a.bin",
+    "md5": "5302302a73a9e27cfaa65f3873b727ab"
   },
   "xiaomi": {
-    "upstream": "https://zl.wpscdn.cn/2026/11/25/space_img/ea7e41c1-e77d-4ca0-8dd0-5e3e5e82ebda.png",
-    "file": "xiaomi-86606e27.bin",
-    "md5": "86606e2746fe634481b2b11a6418bb75"
+    "upstream": "https://zl.wpscdn.cn/2026/11/26/space_img/3ceb1961-2994-45c6-b8c8-aaee338875b2.jpg",
+    "file": "xiaomi-60989c0c.bin",
+    "md5": "60989c0cac9bff12a611e86b0ca69b50"
   },
   "feimao": {
     "upstream": "https://img2.gelonghui.com/library/252d4-9c2ceac7-d615-4058-98ab-fe13818b0ce4.png",
@@ -15,9 +15,9 @@
     "md5": "252d4d890b6e61a4cd29c3b67f4b8a30"
   },
   "wangerxiao": {
-    "upstream": "http://oss4liview.moji.com/thd_file/2026/11/24/0684202079fbec343ec03f772b72e928.jpg",
-    "file": "wangerxiao-d773eab0.bin",
-    "md5": "d773eab0709f62b0077f8112765eb6d2"
+    "upstream": "http://oss4liview.moji.com/thd_file/2026/11/26/51ee39d57065aba54aeb3b13ec328da6.jpg",
+    "file": "wangerxiao-b0f6090a.bin",
+    "md5": "b0f6090aaf39b01168acc99e73950e4c"
   },
   "moyuer": {
     "upstream": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
@@ -41,8 +41,8 @@
   },
   "xiaohuban": {
     "upstream": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar",
-    "file": "xiaohuban-7baf7e18.bin",
-    "md5": "7baf7e18fdecd961ac253a27c660d5aa"
+    "file": "xiaohuban-35e03ebf.bin",
+    "md5": "35e03ebfdc47c8d571f8323815e14770"
   },
   "cainisi": {
     "upstream": "https://tv.xn--yhqu5zs87a.top/jar/fty1016.jar",
@@ -61,8 +61,8 @@
   },
   "eryuehong-tan": {
     "upstream": "http://118.89.172.248:8025/jar/tan.php",
-    "file": "eryuehong-tan-a5d9e10c.bin",
-    "md5": "a5d9e10cf7c09e91b7fd98768ef33eda"
+    "file": "eryuehong-tan-f245fae6.bin",
+    "md5": "f245fae6bceef64bdb539583646f01e3"
   },
   "nanfeng": {
     "upstream": "https://jihulab.com/yoursmile77/TVBox/-/raw/master/Yoursmile.jar",
