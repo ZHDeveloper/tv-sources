@@ -1,13 +1,13 @@
 {
   "fantaiying": {
-    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/8ad28c3ad40145e2f9331fe3f8abddb2.jpg",
-    "file": "fantaiying-5302302a.bin",
-    "md5": "5302302a73a9e27cfaa65f3873b727ab"
+    "upstream": "https://xiuxiu-pro-new.meitudata.com/posters/f2f04a7abac733369446629d6650a250.jpg",
+    "file": "fantaiying-da4bc133.bin",
+    "md5": "da4bc13399ce6343619deb2e9dd16fc0"
   },
   "xiaomi": {
-    "upstream": "https://zl.wpscdn.cn/2026/11/26/space_img/3ceb1961-2994-45c6-b8c8-aaee338875b2.jpg",
-    "file": "xiaomi-60989c0c.bin",
-    "md5": "60989c0cac9bff12a611e86b0ca69b50"
+    "upstream": "https://zl.wpscdn.cn/2026/11/27/space_img/d5aba25f-7e63-4771-84c6-61e6c19db0b7.png",
+    "file": "xiaomi-97a855a3.bin",
+    "md5": "97a855a3c8afa87b82a0fac5bdf26ba2"
   },
   "feimao": {
     "upstream": "https://img2.gelonghui.com/library/252d4-9c2ceac7-d615-4058-98ab-fe13818b0ce4.png",
@@ -15,9 +15,9 @@
     "md5": "252d4d890b6e61a4cd29c3b67f4b8a30"
   },
   "wangerxiao": {
-    "upstream": "http://oss4liview.moji.com/thd_file/2026/11/26/51ee39d57065aba54aeb3b13ec328da6.jpg",
-    "file": "wangerxiao-b0f6090a.bin",
-    "md5": "b0f6090aaf39b01168acc99e73950e4c"
+    "upstream": "http://oss4liview.moji.com/thd_file/2026/11/27/0213f017ffc1b0ffc289883771ca2c5a.jpg",
+    "file": "wangerxiao-23191540.bin",
+    "md5": "231915407140da7d4319728bf4266174"
   },
   "moyuer": {
     "upstream": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
@@ -25,9 +25,9 @@
     "md5": "53b51f8c239b727ce4cd18dc2c3b7a99"
   },
   "xiaosa": {
-    "upstream": "https://aly2.tuchuangyun.top/autoupload/g1b6f/20261125/6Omg/0X0/11251123.png",
-    "file": "xiaosa-d58aeec6.bin",
-    "md5": "d58aeec66895c8abebe6a78ec6ee8c25"
+    "upstream": "https://aly2.tuchuangyun.top/autoupload/g1b6f/20261127/Xlxb/0X0/11271453.png",
+    "file": "xiaosa-62c4d3d6.bin",
+    "md5": "62c4d3d61fb1b3c5d3ce8fad3a6d966c"
   },
   "aowu": {
     "upstream": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png",
@@ -61,8 +61,8 @@
   },
   "eryuehong-tan": {
     "upstream": "http://118.89.172.248:8025/jar/tan.php",
-    "file": "eryuehong-tan-f245fae6.bin",
-    "md5": "f245fae6bceef64bdb539583646f01e3"
+    "file": "eryuehong-tan-252a0a54.bin",
+    "md5": "252a0a540a3c510edbf71569e18bd62b"
   },
   "nanfeng": {
     "upstream": "https://jihulab.com/yoursmile77/TVBox/-/raw/master/Yoursmile.jar",
